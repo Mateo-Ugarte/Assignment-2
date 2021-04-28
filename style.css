@@ -1,9 +1,17 @@
-
 .Early-Years {
   color: black;
   font-family: 'Times New Roman', Times, serif;
 }
 .header{
   color: blueviolet;
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.writing{
+  color:aqua;
   text-align: center;
 }
